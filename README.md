@@ -100,3 +100,9 @@ sudo /home/pi/gifscript
 
 
 
+# How to find GIFs
+
+Use google advanced search like this.
+You can use higher file sizes like 64x64, 128x128, ect but you'll want to convert them to 32x32 or else it will take forever to load.
+
+<img src="https://github.com/DIYCharles/RGBGIFSlideshow/blob/main/pics/advimgsrch.JPG?raw=true" >
