@@ -39,7 +39,7 @@ sudo ./demo -D -m 0 --led-no-hardware-pulse --led-gpio-mapping=adafruit-hat
 ```
 The test should display this rotating block
 
-<img src="https://cdn-shop.adafruit.com/970x728/2345-06.jpg" alt="drawing" style="dauto; width: 25%;"/>
+<img src="https://cdn-shop.adafruit.com/970x728/2345-06.jpg" alt="drawing" style="width: 25%;"/>
 <br></br>
 
 Build the image viewing utility 
@@ -64,6 +64,7 @@ How To Use
    2.gif
    3.gif
    ```
+   <img src="https://github.com/DIYCharles/RGBGIFSlideshow/blob/main/pics/winscpfilenum.JPG?raw=true" />
 3. Upload script gifscript.sh (copy pase if using WINSCP or run ``` sudo nano /home/pi/gifscript.sh ``` and past into the file) 
 4. Edit gifscript to reflect the number of GIFs
 ```sh
@@ -94,6 +95,8 @@ sudo chmod 755 gifscript
 ```sh
 sudo /home/pi/gifscript
 ```
+
+<img src="https://github.com/DIYCharles/RGBGIFSlideshow/blob/main/pics/runningscript.JPG?raw=true" >
 
 
 
