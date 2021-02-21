@@ -1,6 +1,6 @@
 # RGBGIFSlideshow
 Display a loop of GIFs on a 32x32 RBG matrix using a Pi with [Adafruit RGB Matrix HAT + RTC for Raspberry Pi - Mini Kit](https://www.adafruit.com/product/2345)
-<img src="https://cdn-shop.adafruit.com/970x728/2345-06.jpg" alt="drawing" style="display: block; margin-left: auto; margin-right: auto; width: 50%;"/>
+<img src="https://cdn-shop.adafruit.com/970x728/2345-06.jpg" style="max-width:50%;" />
 
 Table of contents
 =================
@@ -64,7 +64,7 @@ How To Use
    2.gif
    3.gif
    ```
-   <img src="https://github.com/DIYCharles/RGBGIFSlideshow/blob/main/pics/winscpfilenum.JPG?raw=true" />
+   <img src="https://github.com/DIYCharles/RGBGIFSlideshow/blob/main/pics/winscpfilenum.JPG?raw=true" style="max-width:50%;" />
 3. Upload script gifscript.sh (copy pase if using WINSCP or run ``` sudo nano /home/pi/gifscript.sh ``` and past into the file) 
 4. Edit gifscript to reflect the number of GIFs
 ```sh
@@ -96,7 +96,7 @@ sudo chmod 755 gifscript
 sudo /home/pi/gifscript
 ```
 
-<img src="https://github.com/DIYCharles/RGBGIFSlideshow/blob/main/pics/runningscript.JPG?raw=true" >
+<img src="https://github.com/DIYCharles/RGBGIFSlideshow/blob/main/pics/runningscript.JPG?raw=true" style="max-width:50%;" >
 
 
 
@@ -105,4 +105,4 @@ sudo /home/pi/gifscript
 Use google advanced search like this.
 You can use higher file sizes like 64x64, 128x128, ect but you'll want to convert them to 32x32 or else it will take forever to load.
 
-<img src="https://github.com/DIYCharles/RGBGIFSlideshow/blob/main/pics/advimgsrch.JPG?raw=true" >
+<img src="https://github.com/DIYCharles/RGBGIFSlideshow/blob/main/pics/advimgsrch.JPG?raw=true" style="max-width:50%;" >
