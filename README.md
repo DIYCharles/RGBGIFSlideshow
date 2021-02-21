@@ -1,6 +1,8 @@
 # RGBGIFSlideshow
 Display a loop of GIFs on a 32x32 RBG matrix using a Pi with [Adafruit RGB Matrix HAT + RTC for Raspberry Pi - Mini Kit](https://www.adafruit.com/product/2345)
-<img src="https://cdn-shop.adafruit.com/970x728/2345-06.jpg" style="max-width:50%;" />
+
+![alt text](https://media.giphy.com/media/cZ3bQqd9Pqp73ghi8X/giphy.gif)
+
 
 Table of contents
 =================
